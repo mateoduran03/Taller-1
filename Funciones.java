@@ -1,6 +1,6 @@
 package aed;
 
-class Funciones {
+class Funciones { //hago el commit
     int cuadrado(int x) {
         
         return x*x;
